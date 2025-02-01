@@ -2,37 +2,82 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>个人学习主页</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>★★个人学习主页★★</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
+            background: linear-gradient(135deg, #007bff, #85d7ff);
+            padding: 20px;
         }
+
         h1 {
-            color: #333;
-            margin-bottom: 20px;
+            color: #fff;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 40px;
+            font-size: 2.5em;
+            font-weight: bold;
+            letter-spacing: 2px;
         }
-        a {
-            padding: 10px 20px;
-            background-color: #007bff;
+
+        .btn-container {
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .btn {
+            display: block;
+            padding: 18px 30px;
+            background: linear-gradient(45deg, #0066cc, #0099ff);
             color: white;
+            text-align: center;
             text-decoration: none;
-            border-radius: 5px;
-            transition: background-color 0.3s;
+            border-radius: 12px;
+            transition: all 0.3s ease;
+            font-size: 1.1em;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            border: 2px solid rgba(255,255,255,0.2);
         }
-        a:hover {
-            background-color: #0056b3;
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+            background: linear-gradient(45deg, #0052a3, #0077cc);
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+                text-align: center;
+            }
+            
+            .btn {
+                padding: 15px 20px;
+                font-size: 1em;
+            }
         }
     </style>
 </head>
 <body>
-    <h1>个人学习</h1>
-    <a href="https://raw.bgithub.xyz/glh4545/glh4545.github.io/refs/heads/main/111.txt" target="_blank">点击访问学习资料</a>
+    <h1>★★个人学习主页★★</h1>
+    <div class="btn-container">
+        <a href="https://raw.bgithub.xyz/glh4545/glh4545.github.io/refs/heads/main/111.txt" class="btn" target="_blank">📝 TXT直播源</a>
+        <a href="https://www.juwanhezi.com/more/live" class="btn" target="_blank">📡 更多直播源</a>
+        <a href="https://live.fanmingming.cn/txt2m3u/" class="btn" target="_blank">🔄 TXT转M3U</a>
+    </div>
 </body>
 </html>
