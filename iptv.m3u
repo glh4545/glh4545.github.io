@@ -1,241 +1,69 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1,CCTV-1
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-1
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-2
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-2
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-3
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-3
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-4
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-4
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-5
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV5+
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV5+
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-6
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-6
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-7
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-7
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-8
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-8
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-9
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-9
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-10
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-10
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-11
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-11
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-12
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-12
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-13
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-13
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-14
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-14
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-15
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-15
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-16
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-16
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-17
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV-17
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
-#EXTINF:-1,广西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
-#EXTINF:-1,湖南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1
-#EXTINF:-1,湖南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1
-#EXTINF:-1,浙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
-#EXTINF:-1,浙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
-#EXTINF:-1,天津卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
-#EXTINF:-1,天津卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1
-#EXTINF:-1,东方卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
-#EXTINF:-1,东方卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
-#EXTINF:-1,江苏卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1
-#EXTINF:-1,江苏卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1
-#EXTINF:-1,北京卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
-#EXTINF:-1,北京卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
-#EXTINF:-1,广东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1
-#EXTINF:-1,广东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
-#EXTINF:-1,深圳卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225951/index.m3u8?servicetype=1
-#EXTINF:-1,深圳卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1
-#EXTINF:-1,山东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8?servicetype=1
-#EXTINF:-1,山东卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
-#EXTINF:-1,湖北卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1
-#EXTINF:-1,湖北卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1
-#EXTINF:-1,安徽卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1
-#EXTINF:-1,安徽卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1
-#EXTINF:-1,东南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1
-#EXTINF:-1,江西卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
-#EXTINF:-1,四川卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1
-#EXTINF:-1,贵州卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
-#EXTINF:-1,重庆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1
-#EXTINF:-1,重庆卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1
-#EXTINF:-1,河北卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
-#EXTINF:-1,辽宁卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8?servicetype=1
-#EXTINF:-1,辽宁卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
-#EXTINF:-1,黑龙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1
-#EXTINF:-1,黑龙江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
-#EXTINF:-1,甘肃卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
-#EXTINF:-1,青海卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
-#EXTINF:-1,云南卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1
-#EXTINF:-1,广西综艺旅游
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1
-#EXTINF:-1,广西都市
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
-#EXTINF:-1,广西新闻
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
-#EXTINF:-1,广西影视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1
-#EXTINF:-1,珠江卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
-#EXTINF:-1,大湾区卫视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
-#EXTINF:-1,柳州新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8?servicetype=1
-#EXTINF:-1,柳州科教
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1
-#EXTINF:-1,贺州综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
-#EXTINF:-1,河池新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1
-#EXTINF:-1,玉林公共
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8?servicetype=1
-#EXTINF:-1,玉林新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8?servicetype=1
-#EXTINF:-1,南宁新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1
-#EXTINF:-1,南宁文旅生活
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1
-#EXTINF:-1,南宁公共
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
-#EXTINF:-1,南宁影视娱乐
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
-#EXTINF:-1,北海新闻
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
-#EXTINF:-1,北海经济科教
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
-#EXTINF:-1,来宾电视台综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8?servicetype=1
-#EXTINF:-1,梧州新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226313/index.m3u8?servicetype=1
-#EXTINF:-1,梧州教育生活
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226316/index.m3u8?servicetype=1
-#EXTINF:-1,防城港新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226312/index.m3u8?servicetype=1
-#EXTINF:-1,防城港公共
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226328/index.m3u8?servicetype=1
-#EXTINF:-1,崇左综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226314/index.m3u8?servicetype=1
-#EXTINF:-1,桂林新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8?servicetype=1
-#EXTINF:-1,桂林科教旅游
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8?servicetype=1
-#EXTINF:-1,桂林公共频道
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8?servicetype=1
-#EXTINF:-1,贵港新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226300/index.m3u8?servicetype=1
-#EXTINF:-1,贵港科教生活
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8?servicetype=1
-#EXTINF:-1,钦州新闻综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
-#EXTINF:-1,钦州公共影视
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1
-#EXTINF:-1,黑莓电影
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1
-#EXTINF:-1,古装剧场
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1
-#EXTINF:-1,动作电影
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
-#EXTINF:-1,军旅剧场
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1
-#EXTINF:-1,家庭剧场
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1
-#EXTINF:-1,惊悚悬疑
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
-#EXTINF:-1,热播精选
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1
-#EXTINF:-1,精品综合
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1
-#EXTINF:-1,爱情喜剧
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1
-#EXTINF:-1,中国功夫
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
-#EXTINF:-1,金牌综艺
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
-#EXTINF:-1,军事评论
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1
-#EXTINF:-1,农业致富
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1
-#EXTINF:-1,精品纪录
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
-#EXTINF:-1,精品体育
-http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
+#EXTM3U x-tvg-url="https://epg.zbds.top"
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="https://livecdn.zbds.org/logo/CCTV-1.png" epg-url="https://epg.zbds.top",CCTV-1
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="https://livecdn.zbds.org/logo/CCTV-1.png" epg-url="https://epg.zbds.top",CCTV-1
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-2" tvg-logo="https://livecdn.zbds.org/logo/CCTV-2.png" epg-url="https://epg.zbds.top",CCTV-2
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-3" tvg-logo="https://livecdn.zbds.org/logo/CCTV-3.png" epg-url="https://epg.zbds.top",CCTV-3
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-4" tvg-logo="https://livecdn.zbds.org/logo/CCTV-4.png" epg-url="https://epg.zbds.top",CCTV-4
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-5" tvg-logo="https://livecdn.zbds.org/logo/CCTV-5.png" epg-url="https://epg.zbds.top",CCTV-5
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-5+" tvg-logo="https://livecdn.zbds.org/logo/CCTV-5+.png" epg-url="https://epg.zbds.top",CCTV-5+
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-6" tvg-logo="https://livecdn.zbds.org/logo/CCTV-6.png" epg-url="https://epg.zbds.top",CCTV-6
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-7" tvg-logo="https://livecdn.zbds.org/logo/CCTV-7.png" epg-url="https://epg.zbds.top",CCTV-7
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-8" tvg-logo="https://livecdn.zbds.org/logo/CCTV-8.png" epg-url="https://epg.zbds.top",CCTV-8
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-10" tvg-logo="https://livecdn.zbds.org/logo/CCTV-10.png" epg-url="https://epg.zbds.top",CCTV-10
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-11" tvg-logo="https://livecdn.zbds.org/logo/CCTV-11.png" epg-url="https://epg.zbds.top",CCTV-11
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-12" tvg-logo="https://livecdn.zbds.org/logo/CCTV-12.png" epg-url="https://epg.zbds.top",CCTV-12
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-13" tvg-logo="https://livecdn.zbds.org/logo/CCTV-13.png" epg-url="https://epg.zbds.top",CCTV-13
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-13" tvg-logo="https://livecdn.zbds.org/logo/CCTV-13.png" epg-url="https://epg.zbds.top",CCTV-13
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV-16" tvg-logo="https://livecdn.zbds.org/logo/CCTV-16.png" epg-url="https://epg.zbds.top",CCTV-16
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" epg-url="https://epg.zbds.top",江苏卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" epg-url="https://epg.zbds.top",深圳卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="浙江卫视" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" epg-url="https://epg.zbds.top",浙江卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" epg-url="https://epg.zbds.top",黑龙江卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" epg-url="https://epg.zbds.top",江西卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="东方卫视" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" epg-url="https://epg.zbds.top",东方卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" epg-url="https://epg.zbds.top",东南卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" epg-url="https://epg.zbds.top",安徽卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" epg-url="https://epg.zbds.top",河北卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="山东卫视" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" epg-url="https://epg.zbds.top",山东卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" epg-url="https://epg.zbds.top",北京卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" epg-url="https://epg.zbds.top",河南卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 group-title="卫视" tvg-name="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" epg-url="https://epg.zbds.top",辽宁卫视
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 group-title="其它" tvg-name="晴彩竞技" tvg-logo="https://livecdn.zbds.org/logo/晴彩竞技.png" epg-url="https://epg.zbds.top",晴彩竞技
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="其它" tvg-name="晴彩篮球" tvg-logo="https://livecdn.zbds.org/logo/晴彩篮球.png" epg-url="https://epg.zbds.top",晴彩篮球
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="其它" tvg-name="古装剧场" tvg-logo="https://livecdn.zbds.org/logo/古装剧场.png" epg-url="https://epg.zbds.top",古装剧场
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
