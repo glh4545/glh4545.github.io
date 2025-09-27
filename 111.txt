@@ -39,6 +39,17 @@ CCTV-17,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 
 卫视,#genre#
 广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225894/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225938/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225941/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225944/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225953/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225976/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225986/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225984/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225987/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226052/index.m3u8?servicetype=1
+广西卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226374/index.m3u8?servicetype=1
 湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1
 湖南卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1
 浙江卫视,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
