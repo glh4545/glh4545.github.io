@@ -1,187 +1,230 @@
-#EXTM3U x-tvg-url=https://gitee.com/taksssss/tv/raw/main/epg/51zmt.xml.gz
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1综合" tvg-id="CCTV1综合" tvg-name="CCTV1综合" group-title="央视频道",CCTV-1综合
+#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV1.png",CCTV1
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2财经" tvg-id="CCTV2财经" tvg-name="CCTV2财经" group-title="央视频道",CCTV-2财经
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV2
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3综艺" tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" group-title="央视频道",CCTV-3综艺
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV3.png",CCTV3
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4中文国际" tvg-id="CCTV4中文国际" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV-4中文国际
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV4
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV-5+体育赛事
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5体育" tvg-id="CCTV5体育" tvg-name="CCTV5体育" group-title="央视频道",CCTV-5体育
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV5.png",CCTV5
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6电影" tvg-id="CCTV6电影" tvg-name="CCTV6电影" group-title="央视频道",CCTV-6电影
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV6
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7国防军事" tvg-id="CCTV7国防军事" tvg-name="CCTV7国防军事" group-title="央视频道",CCTV-7国防军事
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV7.png",CCTV7
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8电视剧" tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" group-title="央视频道",CCTV-8电视剧
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV8
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9纪录" tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" group-title="央视频道",CCTV-9纪录
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV9.png",CCTV9
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10科教" tvg-id="CCTV10科教" tvg-name="CCTV10科教" group-title="央视频道",CCTV-10科教
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV10
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11戏曲" tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" group-title="央视频道",CCTV-11戏曲
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV11.png",CCTV11
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12社会与法" tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" group-title="央视频道",CCTV-12社会与法
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV12
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13新闻" tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" group-title="央视频道",CCTV-13新闻
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV13.png",CCTV13
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14少儿" tvg-id="CCTV14少儿" tvg-name="CCTV14少儿" group-title="央视频道",CCTV-14少儿
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV14
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV15音乐" tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" group-title="央视频道",CCTV-15音乐
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV15.png",CCTV15
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV16奥林匹克" tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" group-title="央视频道",CCTV-16奥林匹克
+#EXTINF:-1 group-title="央视频道" tvg-logo="",CCTV16
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17农业农村" tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" group-title="央视频道",CCTV-17农业农村
+#EXTINF:-1 group-title="央视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/CCTV17.png",CCTV17
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东南卫视" tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道",东南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Dongnan.png",东南卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Dongfang.png",东方卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/云南卫视" tvg-id="云南卫视" tvg-name="云南卫视" group-title="卫视频道",云南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Yunnan.png",云南卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,凤凰卫视-中文台
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",凤凰卫视-中文台
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,凤凰卫视-资讯台
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",凤凰卫视-资讯台
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,凤凰卫视-香港台
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",凤凰卫视-香港台
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/北京卫视" tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",北京卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/四川卫视" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道",四川卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",厦门卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jilin.png",吉林卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Sichuan.png",四川卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,大湾区卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",大湾区卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/安徽卫视" tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Tianjin.png",天津卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Anhui.png",安徽卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东卫视" tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shandong.png",山东卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/广东卫视" tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi_.png",山西卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo="",广东卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/广西卫视" tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道",广西卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Guangxi.png",广西卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jiangsu.png",江苏卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226465/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江西卫视" tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道",江西卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Jiangxi.png",江西卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/河北卫视" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hebei.png",河北卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/浙江卫视" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Henan.png",河南卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Zhejiang.png",浙江卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/海南卫视" tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道",海南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hainan.png",海南卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/深圳卫视" tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Shenzhen.png",深圳卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hubei.png",湖北卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Hunan.png",湖南卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/甘肃卫视" tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Gansu.png",甘肃卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Guizhou.png",贵州卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Liaoning.png",辽宁卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/重庆卫视" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Chongqing.png",重庆卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视频道",青海卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Shanxi.png",陕西卫视
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Qinghai.png",青海卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/黑龙江卫视" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Heilongjiang.png",黑龙江卫视
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,军旅剧场
+#EXTINF:-1 group-title="电影频道" tvg-logo="",NEWTV动作电影
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="电影频道" tvg-logo="",军旅剧场
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,剧场
+#EXTINF:-1 group-title="电影频道" tvg-logo="",剧场
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,南宁影视娱乐
+#EXTINF:-1 group-title="电影频道" tvg-logo="",南宁影视娱乐
 https://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1,古装剧场
+#EXTINF:-1 group-title="电影频道" tvg-logo="",古装剧场
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,家庭剧场
+#EXTINF:-1 group-title="电影频道" tvg-logo="",家庭剧场
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,爱奇艺-欢乐剧场
+#EXTINF:-1 group-title="电影频道" tvg-logo="",爱奇艺-欢乐剧场
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226049/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,黑莓电影
+#EXTINF:-1 group-title="电影频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/hmdy.png",黑莓电影
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,黑莓动画
+#EXTINF:-1 group-title="少儿频道" tvg-logo="",北京少儿
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="少儿频道" tvg-logo="",黑莓动画
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV精品体育
+#EXTINF:-1 group-title="体育频道" tvg-logo="",NEWTV精品体育
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,体育
+#EXTINF:-1 group-title="体育频道" tvg-logo="",体育
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225758/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV中国功夫
+#EXTINF:-1 group-title="其他频道" tvg-logo="",NEWTV中国功夫
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV军事评论
+#EXTINF:-1 group-title="其他频道" tvg-logo="",NEWTV军事评论
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV农业致富
+#EXTINF:-1 group-title="其他频道" tvg-logo="",NEWTV农业致富
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV爱情喜剧
+#EXTINF:-1 group-title="其他频道" tvg-logo="",NEWTV爱情喜剧
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV精品大剧
+#EXTINF:-1 group-title="其他频道" tvg-logo="",NEWTV精品大剧
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,NEWTV金牌综艺
+#EXTINF:-1 group-title="其他频道" tvg-logo="",NEWTV金牌综艺
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,中国气象
+#EXTINF:-1 group-title="其他频道" tvg-logo="",中国气象
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226443/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,北京冬奥
+#EXTINF:-1 group-title="其他频道" tvg-logo="",优漫卡通
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",北京冬奥
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,北海新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",北海新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226346/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,北海经济科教
+#EXTINF:-1 group-title="其他频道" tvg-logo="",北海经济科教
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226431/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,咪咕视频
+#EXTINF:-1 group-title="其他频道" tvg-logo="",咪咕视频
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225771/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,哒啵电竞
+#EXTINF:-1 group-title="其他频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/hhxd.png",哈哈炫动
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225711/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",哒啵电竞
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,崇左综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",嘉佳卡通
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",山东教育
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",崇左综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226351/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,广东珠江
+#EXTINF:-1 group-title="其他频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/Guangdong9.png",广东珠江
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,广西新闻
+#EXTINF:-1 group-title="其他频道" tvg-logo="",广西新闻
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226335/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,广西新闻
+#EXTINF:-1 group-title="其他频道" tvg-logo="",广西新闻
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226407/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,广西新闻
+#EXTINF:-1 group-title="其他频道" tvg-logo="",广西新闻
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,来宾综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",广西移动
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226338/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",广西综艺旅游
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226409/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",来宾综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226357/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,柳州新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",柳州新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226348/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,柳州科教
+#EXTINF:-1 group-title="其他频道" tvg-logo="",柳州科教
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226434/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,桂林公共
+#EXTINF:-1 group-title="其他频道" tvg-logo="",桂林公共
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226342/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,桂林新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",桂林新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226343/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,梧州教育生活
+#EXTINF:-1 group-title="其他频道" tvg-logo="",桂林科教旅游
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226339/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",梧州教育生活
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226444/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,梧州新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",梧州新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226349/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,河池新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",河池新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226356/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,玉林新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",玉林新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226354/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,睛彩广场舞
+#EXTINF:-1 group-title="其他频道" tvg-logo="",百色综合
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226353/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",睛彩广场舞
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,睛彩竞技
+#EXTINF:-1 group-title="其他频道" tvg-logo="",睛彩竞技
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,睛彩篮球
+#EXTINF:-1 group-title="其他频道" tvg-logo="",睛彩篮球
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,睛彩青少
+#EXTINF:-1 group-title="其他频道" tvg-logo="",睛彩青少
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,精品萌宠
+#EXTINF:-1 group-title="其他频道" tvg-logo="",精品萌宠
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,精品记录
+#EXTINF:-1 group-title="其他频道" tvg-logo="",精品记录
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,综艺
+#EXTINF:-1 group-title="其他频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/jsrw.png",纪实人文
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226016/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",综艺
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,贵港新闻综合
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226345/index.m3u8?ser
-vicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,贵港科教生活
+#EXTINF:-1 group-title="其他频道" tvg-logo="",贵港新闻综合
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226345/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",贵港科教生活
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226424/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,钦州公共
+#EXTINF:-1 group-title="其他频道" tvg-logo="",贺州综合
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226352/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo=" https://www.lysvc.cc/TVlogo/img/jykt.png",金鹰卡通
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo=" https://www.lysvc.cc/TVLogo/img/Hunan9.png",金鹰纪实
+http://gxyd.484947.xyz/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",钦州公共
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226459/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,钦州综合http://gxyd.484947.xyz/PLTV/77777777/224/3221226347/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,防城港公共
+#EXTINF:-1 group-title="其他频道" tvg-logo="",钦州综合
+http://gxyd.484947.xyz/PLTV/77777777/224/3221226347/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="其他频道" tvg-logo="",防城港公共
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226441/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1,防城港新闻综合
+#EXTINF:-1 group-title="其他频道" tvg-logo="",防城港新闻综合
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226350/index.m3u8?servicetype=1&IASHttpSessionId=OTT
