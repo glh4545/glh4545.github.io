@@ -1,81 +1,81 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-1
+#EXTINF:-1 group-title="央视" tvg-name="CCTV1" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226355/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-2" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-2
+#EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-2" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-2
+#EXTINF:-1 group-title="央视" tvg-name="CCTV2" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-3
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV3
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-3
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV3
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-3
+#EXTINF:-1 group-title="央视" tvg-name="CCTV3" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV3.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV3
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226358/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-4" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-4
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-4" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-4
+#EXTINF:-1 group-title="央视" tvg-name="CCTV4" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV4.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV4
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-5
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-5
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-5
+#EXTINF:-1 group-title="央视" tvg-name="CCTV5" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="央视" tvg-name="CCTV5+" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV5+.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV5+
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-6" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-6
+#EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-6" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-6
+#EXTINF:-1 group-title="央视" tvg-name="CCTV6" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV6.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV6
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-7" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-7.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7
+#EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV7.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV7
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-7" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-7.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7
+#EXTINF:-1 group-title="央视" tvg-name="CCTV7" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV7.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV7
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-8" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-8.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV8.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-8" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-8.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-8
+#EXTINF:-1 group-title="央视" tvg-name="CCTV8" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV8.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV8
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-9" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-9.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-9
+#EXTINF:-1 group-title="央视" tvg-name="CCTV9" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV9.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV9
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-9" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-9.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-9
+#EXTINF:-1 group-title="央视" tvg-name="CCTV9" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV9.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV9
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-10" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-10.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-10
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV10.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV10
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-10" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-10.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-10
+#EXTINF:-1 group-title="央视" tvg-name="CCTV10" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV10.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV10
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-11" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-11.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-11
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV11.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-11" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-11.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-11
+#EXTINF:-1 group-title="央视" tvg-name="CCTV11" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV11.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-12" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-12.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-12
+#EXTINF:-1 group-title="央视" tvg-name="CCTV12" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV12.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV12
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-12" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-12.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-12
+#EXTINF:-1 group-title="央视" tvg-name="CCTV12" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV12.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV12
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-13" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-13.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-13
+#EXTINF:-1 group-title="央视" tvg-name="CCTV13" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV13.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-13" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-13.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-13
+#EXTINF:-1 group-title="央视" tvg-name="CCTV13" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV13.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV13
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-14" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-14.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-14
+#EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV14.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV14
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-14" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-14.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-14
+#EXTINF:-1 group-title="央视" tvg-name="CCTV14" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV14.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV14
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-15" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-15.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-15
+#EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV15.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV15
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-15" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-15.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-15
+#EXTINF:-1 group-title="央视" tvg-name="CCTV15" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV15.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV15
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-16" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-16.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-16
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV16.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV16
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-16" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-16.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-16
+#EXTINF:-1 group-title="央视" tvg-name="CCTV16" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV16.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV16
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-17" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-17
+#EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="央视" tvg-name="CCTV-17" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV-17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-17
+#EXTINF:-1 group-title="央视" tvg-name="CCTV17" tvg-logo="http://kakaxi.indevs.in/LOGO/CCTV17.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="卫视" tvg-name="广西卫视" tvg-logo="http://kakaxi.indevs.in/LOGO/广西卫视.png" epg-url="https://epg.112114.xyz/pp.xml",广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
