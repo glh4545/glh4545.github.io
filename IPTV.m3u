@@ -297,11 +297,11 @@ http://gxyd.484947.xyz/PLTV/77777777/224/3221226335/index.m3u8?servicetype=1&IAS
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226336/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="其他频道" tvg-name="广西移动" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/广西移动.png" epg-url="https://epg.112114.xyz/pp.xml",广西移动
 http://gxyd.484947.xyz/PLTV/77777777/224/3221226338/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="其他频道" tvg-name="晴彩竞技" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/晴彩竞技.png" epg-url="https://epg.112114.xyz/pp.xml",晴彩竞技
+#EXTINF:-1 group-title="其他频道" tvg-name="睛彩竞技" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/晴彩竞技.png" epg-url="https://epg.112114.xyz/pp.xml",晴彩竞技
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225848/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="其他频道" tvg-name="晴彩竞技" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/晴彩竞技.png" epg-url="https://epg.112114.xyz/pp.xml",晴彩竞技
+#EXTINF:-1 group-title="其他频道" tvg-name="睛彩竞技" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/晴彩竞技.png" epg-url="https://epg.112114.xyz/pp.xml",晴彩竞技
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="其他频道" tvg-name="晴彩篮球" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/晴彩篮球.png" epg-url="https://epg.112114.xyz/pp.xml",晴彩篮球
+#EXTINF:-1 group-title="其他频道" tvg-name="睛彩篮球" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/晴彩篮球.png" epg-url="https://epg.112114.xyz/pp.xml",晴彩篮球
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 group-title="其他频道" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/金鹰纪实.png" epg-url="https://epg.112114.xyz/pp.xml",金鹰纪实
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT
