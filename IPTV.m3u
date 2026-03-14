@@ -47,9 +47,9 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV10" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-10 科教.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV10
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226369/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-11 戏曲.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-11 戏曲.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-11 戏曲.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-11 戏曲.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV11
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV12" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-12 社会与法.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV12
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8
@@ -57,15 +57,15 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV12" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-12 社会与法.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV12
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226370/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-13 新闻.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV13
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-13 新闻.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV13
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-14 少儿.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV14
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-14 少儿.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV14
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-15 音乐.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV15
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-15 音乐.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV15
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV16" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-16 奥林匹克.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV16
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV16" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-16 奥林匹克.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV16
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV17" tvg-logo="https://gitee.com/glh136/Heng/raw/master//logo/CCTV-17 农业农村.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV17" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-17 农业农村.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV17
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8
 #EXTINF:-1 group-title="📡卫视频道"  tvg-name="北京卫视" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/北京卫视.png" epg-url="https://epg.112114.xyz/pp.xml",北京卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8
