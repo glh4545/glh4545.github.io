@@ -129,23 +129,23 @@ http://219.156.91.5:4022/rtp/225.1.4.160:1196$河南联通21
 http://123.118.63.55:8686/rtp/239.3.1.174:8001$北京联通21
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-6 电影" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-6 电影.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-6 电影
 http://60.4.29.183:8077/rtp/239.253.92.193:6058$河北联通21
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://221.220.130.223:8012/rtp/239.3.1.61:8104$北京联通11
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://171.8.169.129:8800/rtp/239.16.20.51:10510$河南电信11
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://116.2.160.239:4010/rtp/232.0.0.136:1234$辽宁联通11
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://144.255.16.170:6688/udp/239.21.1.152:5002$山东电信11
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://106.87.51.33:8888/rtp/235.254.198.56:1500$重庆电信11
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://106.59.2.11:55555/udp/239.200.200.105:8104$云南电信11
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://219.156.91.5:4022/rtp/225.1.4.76:1105$河南联通21
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://123.118.63.55:8686/rtp/239.3.1.61:8104$北京联通21
-#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 农业军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 农业军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
+#EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-7 国防军事" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-7 国防军事.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-7 农业军事
 http://60.4.29.183:8077/rtp/239.253.92.194:6059$河北联通21
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV-8 电视剧" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/CCTV-8 电视剧.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV-8 电视剧
 http://221.220.130.223:8012/rtp/239.3.1.175:8001$北京联通11
