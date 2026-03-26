@@ -959,3 +959,24 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?service
 http://36.159.28.196:6610/PLTV/77777777/224/3221225740/index.m3u8?
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/黑莓电影.png" group-title="🐼其他频道",黑莓电影
 http://39.135.46.246:6610/PLTV/77777
+#EXTINF:-1 tvg-id="烽烟剧场" tvg-name="烽烟剧场" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/烽烟剧场.png" group-title="🐼其他频道",烽烟剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/中国功夫.png" group-title="🐼其他频道",中国功夫
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/爱情喜剧.png" group-title="🐼其他频道",爱情喜剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/动作电影.png" group-title="🐼其他频道",动作电影
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/精品体育.png" group-title="🐼其他频道",精品体育
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/军旅剧场.png" group-title="🐼其他频道",军旅剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/家庭剧场.png" group-title="🐼其他频道",家庭剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/惊悚悬疑.png" group-title="🐼其他频道",惊悚悬疑
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/精品大剧.png" group-title="🐼其他频道",精品大剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="谍战大剧" tvg-name="谍战大剧" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/谍战大剧.png" group-title="🐼其他频道",谍战大剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://gitee.com/glh136/Heng/raw/master/logo/欢乐剧场.png" group-title="🐼其他频道",欢乐剧场
